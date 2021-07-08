@@ -1,0 +1,42 @@
+.deleteFileForm {
+  width: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #000000;
+  border-radius: 3px;
+  padding: 27px;
+  background-color: white;
+}
+
+.yesButton {
+  width: 35%;
+  height: auto;
+  padding: 3px;
+  border-radius: 7px;
+  background-color: rgb(170, 170, 170);
+}
+
+.noButton {
+  width: 35%;
+  height: auto;
+  padding: 3px;
+  border-radius: 7px;
+  background-color: rgb(170, 170, 170);
+}
+
+.deleteFileName {
+  display: flex;
+  justify-content: space-around;
+}
+
+.deleteFileDiv {
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(70, 67, 68, 0.3);
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

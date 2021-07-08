@@ -1,0 +1,9 @@
+export { default as MainPage } from './MainPage/MainPage';
+export { default as Auth } from './Auth/Auth';
+export { default as Login } from './Login/Login';
+export { default as Table } from './Table/Table';
+export { default as Navbar } from './Navbar/Navbar';
+export { default as Footer } from './Footer/Footer';
+export { default as ChangeFileName } from './ChangeFileName/ChangeFileName';
+export { default as DeleteFile } from './DeleteFile/DeleteFile';
+export { default as LoadForm } from './LoadForm/LoadForm';

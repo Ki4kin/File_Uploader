@@ -1,0 +1,46 @@
+.loadButton {
+  width: 100%;
+  border-radius: 7px;
+  margin-top: 5%;
+}
+
+.loadDiv {
+  width: 100%;
+}
+
+.mainPageBody {
+  margin: 0 20px;
+  z-index: 1;
+}
+
+.tableButton {
+  font-size: large;
+}
+
+.preview {
+  display: flex;
+  justify-content: center;
+}
+
+.imgPreview {
+  width: auto;
+  height: 70px;
+}
+
+.tdName {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.tdButtons {
+  vertical-align: middle;
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tableHead {
+  text-align: center;
+}

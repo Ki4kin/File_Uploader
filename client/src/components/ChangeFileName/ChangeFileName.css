@@ -1,0 +1,49 @@
+.changeFileForm {
+  width: 800px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  border: 2px solid #000000;
+  border-radius: 3px;
+  padding: 27px;
+  background-color: white;
+}
+
+.saveButton {
+  width: 35%;
+  height: auto;
+  padding: 3px;
+  border-radius: 7px;
+}
+
+.escButton {
+  width: 35%;
+  height: auto;
+  padding: 3px;
+  border-radius: 7px;
+}
+
+.changeFileName {
+  display: flex;
+  justify-content: space-around;
+}
+
+.changeFileFormTitle {
+  text-align: center;
+}
+
+#inputChangeFileName {
+  width: 450px;
+  margin: 20px;
+}
+
+.changeFileDiv {
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(70, 67, 68, 0.3);
+}
